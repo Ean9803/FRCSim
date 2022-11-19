@@ -1,0 +1,7 @@
+!spawns field
+spawn field 0
+!spawns robot
+spawn robot 4
+copy
+clear
+help
